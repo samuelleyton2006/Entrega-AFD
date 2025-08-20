@@ -1,4 +1,8 @@
-00
-1011001
-1
-10101
+a
+aa
+aaa
+b
+ab
+ba
+aab
+aaaba
